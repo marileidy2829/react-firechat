@@ -18,3 +18,6 @@ Nestros perfiles
 https://github.com/marileidy2829
 Anabelhenriquez1
 arlinj
+
+##  uso del pull request
+Los pull request permiten no solo llevar de forma más ordenada las tareas en la etapa del desarrollo, sino también crear propuestas o cambios que puedan ser integrados posteriormente a dicho proyecto. Básicamente un pull request es una petición para integrar nuestras propuestas o cambios de código a un proyecto.
