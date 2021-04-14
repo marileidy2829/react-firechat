@@ -10,7 +10,7 @@
 
 
 
-☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘
+☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘
 
 ## Pueden encontrarnos como:
 
@@ -19,3 +19,11 @@
 * [arlinj](https://github.com/arlinj)
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+## Resumen del proyecto 
+Se creo un proyecto llamado react-firechat, tambien se creo un remoto donde el lider que es Marileidy C.M tenia que mandarle una invitacion a la colaboradora quien es Arlin J.M y al miembro fork quien es Anabel H.P, Luego de todos eso
+pasaron a la limpieza del Readm.md para hacer la presentacion.
+
+🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵🏵
+
+## Diferencia entre un miembro colaborador y un miembro fork
+La diferencia es que el miembro colaborador tiene el permiso de editar, mientras que el miembro fork puede clonar sin hacer modificaciones 
