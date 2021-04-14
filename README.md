@@ -27,3 +27,7 @@ pasaron a la limpieza del Readm.md para hacer la presentacion.
 
 ## Diferencia entre un miembro colaborador y un miembro fork
 La diferencia es que el miembro colaborador tiene el permiso de editar, mientras que el miembro fork puede clonar sin hacer modificaciones 
+
+## como trabaja el fork vs colaborador
+El colaborador trabaja de manera libre en el proyecto mientras el miembro fork nesesita el
+permiso del miembro lider para hacer los combios.
