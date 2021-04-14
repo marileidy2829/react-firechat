@@ -10,11 +10,12 @@
 
 
 
-☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘
+☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘☘
 
+## Pueden encontrarnos como:
 
-Nestros perfiles 
+* [marileidy2829](https://github.com/marileidy2829)
+* [Anabelhenriquez1](https://github.com/Anabelhenriquez1)
+* [arlinj](https://github.com/arlinj)
 
-https://github.com/marileidy2829
-Anabelhenriquez1
-arlinj
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
