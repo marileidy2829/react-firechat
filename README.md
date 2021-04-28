@@ -32,3 +32,6 @@ La diferencia es que el miembro colaborador tiene el permiso de editar, mientras
 ## como trabaja el fork vs colaborador
 El colaborador trabaja de manera libre en el proyecto mientras el miembro fork nesesita el
 permiso del miembro lider para hacer los combios.
+🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+# Uso del pull request
+Los pull request permiten no solo llevar de forma más ordenada las tareas en la etapa del desarrollo, sino también crear propuestas o cambios que puedan ser integrados posteriormente a dicho proyecto. Básicamente un pull request es una petición para integrar nuestras propuestas o cambios de código a un proyecto.
