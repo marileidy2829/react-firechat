@@ -17,6 +17,7 @@
 * [marileidy2829](https://github.com/marileidy2829)
 * [Anabelhenriquez1](https://github.com/Anabelhenriquez1)
 * [arlinj](https://github.com/arlinj)
+*[yesmeily26](https://github.com/Yesmeily26)
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ## Resumen del proyecto 
