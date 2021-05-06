@@ -7,6 +7,7 @@
 * Marileidy Castillo Maria como lider👩🏻‍🦳
 * Arlin de Jesus Martinez como Miembro Colaborador👩🏻
 * Anabel Henriquez como Miembro Fork👱🏻‍♀️
+* Yesmeily Cabreja Maria como Miembro Colaborador👩🏼‍🦰
 
 
 
@@ -17,7 +18,7 @@
 * [marileidy2829](https://github.com/marileidy2829)
 * [Anabelhenriquez1](https://github.com/Anabelhenriquez1)
 * [arlinj](https://github.com/arlinj)
-*[yesmeily26](https://github.com/Yesmeily26)
+* [yesmeily26](https://github.com/Yesmeily26)
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ## Resumen del proyecto 
