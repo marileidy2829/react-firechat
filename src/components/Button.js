@@ -1,11 +1,9 @@
-import { Children } from "react";
-
 const Button = ({
-    onclick = null,
-    Children = null
-}) =>
+    onClick = null,
+    children = null
+})=> 
 (
-    <Button onClick={onclick} >{Children} </Button> 
-);
+    <button onClick ={onClick}> {children}</button>
 
+);
 export default Button;
