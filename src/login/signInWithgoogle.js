@@ -1,6 +1,5 @@
-import { 
-    googleAuthProvider,
-    firebase
+import { googleAuthProvider, firebase
+
 } from './config/firebase';
 
 
