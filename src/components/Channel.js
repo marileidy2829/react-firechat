@@ -6,7 +6,7 @@ import { bd } from '../config/firebase';
 const Channel = ({ user = null}) => {
 const [messages, setMessages] = useState([]),
 //Necesito cargar los mensage de la BD.
-userEffect(() => {
+userEffect (() => {
 /*
 Crear el query de los mensajes.
 cargar 100 mensages ordenados por fechas.
@@ -25,7 +25,12 @@ const unsubscribe = query.onSnapshot(querySnapshot =>{
 });
 },[])
 
-return <ul></ul>
-
+    return (
+    <ul>
+        { messages.map(messages =>(
+        //Todos los mensages seran mostrados en la lista.
+        ))}
+    </ul>
+   );
 };
 export default Channel;
