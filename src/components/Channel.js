@@ -3,14 +3,17 @@
 import { userEffect, useState} from 'react';
 import { bd } from '../config/firebase';
 
-const Channel = ({ user = null}) => {
-const [messages, setMessages] = useState([]),
+const Channel = ({ user = null }) => {
+       const [messages, setMessages] = useState([]),
+       
 //Necesito cargar los mensage de la BD.
-userEffect (() => {
+useEffect
+(() => {
 /*
 Crear el query de los mensajes.
 cargar 100 mensages ordenados por fechas.
 */
+
 const query = bd.collection('messages')
       .orderBy('createdAt')
       .limit(100);
@@ -23,14 +26,20 @@ const unsubscribe = query.onSnapshot(querySnapshot =>{
     //Actualizo todos los mensages octenido desde la bd.
     setMessages(data);
 });
-},[])
+//CleamUp
+return unsubscribe;
+}, [])
 
     return (
     <ul>
-        { messages.map(messages =>(
+                { messages.map(messages =>(
         //Todos los mensages seran mostrados en la lista.
+        <li key={message.id}>{message.text} </li>
         ))}
+    
+
+        
     </ul>
-   );
+    );
 };
 export default Channel;
