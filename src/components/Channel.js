@@ -8,8 +8,7 @@ const Channel = ({ user = null }) => {
        
 //Necesito cargar los mensage de la BD.
 useEffect
-(() => {;;
-    
+(() => {
 /*
 Crear el query de los mensajes.
 cargar 100 mensages ordenados por fechas.
